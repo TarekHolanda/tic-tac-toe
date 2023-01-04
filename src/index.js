@@ -2,7 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 
-// Square
+// Link: https://tic-tac-toe-three-mu.vercel.app/
+
 function Square(props) {
     return (
         <button className="square" onClick={props.onClick}>
